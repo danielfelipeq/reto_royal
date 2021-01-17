@@ -1,0 +1,28 @@
+{
+  "name": "reto_royal",
+  "version": "1.0.0",
+  "description": "información de Clash royale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayruthCalla/reto_royal.git"
+  },
+  "author": "Nayruth Calla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayruthCalla/reto_royal/issues"
+  },
+  "homepage": "https://github.com/nayruthCalla/reto_royal#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "eslint": "^7.18.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1"
+  }
+}
