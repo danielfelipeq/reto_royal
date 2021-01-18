@@ -4,4 +4,4 @@ las cartas estan actualizadas al momento actual
 ahora estoy escribiendo todo
 ---
 EMPEZANDO PRUEBA T1
-ahoraa de nuevo
+ahoraa de nuevo y siempre
